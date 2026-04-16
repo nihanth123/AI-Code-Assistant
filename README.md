@@ -22,6 +22,3 @@ A multi-agent AI pipeline that reviews code for bugs, security vulnerabilities, 
 1. Open the notebook in Google Colab or Jupyter
 2. Run cells top to bottom
 3. **No AWS needed** — run Cell 10 (Try your own code) for a full simulation
-
-## Project Type
-Personal demonstration project — IBM Generative & Agentic AI Developer Badge
